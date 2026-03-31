@@ -1,6 +1,6 @@
 /* app.js — Nexore AI */
 
-const GROQ_API_KEY = 'YOUR_GROQ_API_KEY_HERE';
+const GROQ_API_KEY = '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';
 const MODEL = 'llama-3.3-70b-versatile';
 
 let users = JSON.parse(localStorage.getItem('nx_users') || '{}');
